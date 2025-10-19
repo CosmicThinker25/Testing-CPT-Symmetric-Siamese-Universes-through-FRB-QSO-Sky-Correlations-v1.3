@@ -40,7 +40,7 @@ CosmicThinker & ChatGPT (2025).
 **BibTeX**
 ```bibtex
 
-  author       = {CosmicThinker) and ChatGPT},
+  author       = Pensador Cósmico (CosmicThinker) · ChatGPT (OpenAI)
   title        = {Testing CPT–Symmetric Siamese Universes through FRB–QSO Sky Correlations (v1.3)},
   year         = {2025},
   doi          = {10.5281/zenodo.17393439},
