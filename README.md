@@ -32,7 +32,7 @@ CosmicThinker & ChatGPT (2025).
 **BibTeX**
 ```bibtex
 @misc{fangel2025_cpt_frbqso,
-  author       = {Fangel (CosmicThinker) and ChatGPT},
+  author       = {CosmicThinker) and ChatGPT},
   title        = {Testing CPT–Symmetric Siamese Universes through FRB–QSO Sky Correlations (v1.3)},
   year         = {2025},
   doi          = {10.5281/zenodo.17393439},
