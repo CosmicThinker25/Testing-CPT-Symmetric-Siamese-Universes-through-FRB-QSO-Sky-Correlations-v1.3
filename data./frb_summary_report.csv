@@ -1,0 +1,12 @@
+﻿FASE,Script / Análisis,Resultado principal,Valor / Significancia
+1,frb_dipole_test.py,Isotropía global FRB,"R² ≈ 0.0001, p ≈ 0.995"
+2,frb_cpt_dm_histogram.py,Asimetría hemisférica (DM),Medianas: 1089.6 / 1231.2
+3,frb_qso_heatmap_axis.py,Mapa FRB–QSO (rejilla densidad),rejilla exportada
+4,frb_qso_autocorr_sigma.py,Autocorrelación angular,"θ₍c₎ ≈ 6.1°, L ≈ 1.16 Gly"
+5,frb_qso_sigma_map.py,Mapa Z-score global,σ_global ≈ 0.052
+6,frb_sigma_cluster_report.py,Clústeres supra-umbral,"N = 35, |Z| ≥ 2.63"
+7,frb_sigma_radial_density.py,Exceso radial (≤15°),"Z ≈ 7.0 (obs=6, exp=0.6)"
+8,frb_sigma_radial_permutation.py,Test permutacional,p_global ≈ 0.00000
+9,frb_sigma_axis_rotation_test.py,Look-elsewhere correction,pₗₑ ≈ 0.019
+10,frb_sigma_axis_map.py,Mapa direccional de significancia,Patrón siamés confirmado
+11,frb_qso_mirror_overlay.py,Mapa espejo FRB–QSO,Reflejo visible en hemisferio opuesto
