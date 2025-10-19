@@ -25,7 +25,7 @@ A marginal but intriguing CPT-symmetric anisotropy with **Z = 7.0 ± 1.1** and *
 ### 🧠 Citation
 If you use this work, please cite:
 
-> Fangel (CosmicThinker) & ChatGPT (2025).  
+CosmicThinker & ChatGPT (2025).  
 > *Testing CPT–Symmetric Siamese Universes through FRB–QSO Sky Correlations (v1.3).*  
 > Zenodo. [https://doi.org/10.5281/zenodo.17393439](https://doi.org/10.5281/zenodo.17393439)
 
