@@ -1,14 +1,15 @@
 # 🛰️ Testing CPT–Symmetric Siamese Universes through FRB–QSO Sky Correlations (v1.3)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17393439.svg)](https://doi.org/10.5281/zenodo.17393439)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17420823.svg)](https://doi.org/10.5281/zenodo.17420823)
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3" alt="Repo size">
   <img src="https://img.shields.io/github/last-commit/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3" alt="Last commit">
   <img src="https://img.shields.io/github/stars/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3?style=social" alt="GitHub forks">
-  <img src="https://badges.pufler.dev/visits/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3" alt="Visits">
 </p>
+
+---
 
 ### 📄 Summary
 This repository hosts the reproducible pipeline and datasets used in the paper  
@@ -35,18 +36,19 @@ If you use this work, please cite:
 
 CosmicThinker & ChatGPT (2025).  
 > *Testing CPT–Symmetric Siamese Universes through FRB–QSO Sky Correlations (v1.3).*  
-> Zenodo. [https://doi.org/10.5281/zenodo.17393439](https://doi.org/10.5281/zenodo.17393439)
+> Zenodo. [https://doi.org/10.5281/zenodo.17420823](https://doi.org/10.5281/zenodo.17420823)
 
 **BibTeX**
 ```bibtex
-
-  author       = Pensador Cósmico (CosmicThinker) · ChatGPT (OpenAI)
+@misc{cosmicthinker2025frbqso,
+  author       = {CosmicThinker and ChatGPT},
   title        = {Testing CPT–Symmetric Siamese Universes through FRB–QSO Sky Correlations (v1.3)},
   year         = {2025},
-  doi          = {10.5281/zenodo.17393439},
+  doi          = {10.5281/zenodo.17420823},
   publisher    = {Zenodo},
-  url          = {https://doi.org/10.5281/zenodo.17393439}
+  url          = {https://doi.org/10.5281/zenodo.17420823}
 }
+
 
 🌌 Note
 This project was co-developed with ChatGPT (OpenAI) as an analytical collaborator and editor.
