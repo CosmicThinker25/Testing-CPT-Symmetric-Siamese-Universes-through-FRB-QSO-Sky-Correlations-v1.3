@@ -2,13 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17420823.svg)](https://doi.org/10.5281/zenodo.17420823)
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3" alt="Repo size">
-  <img src="https://img.shields.io/github/last-commit/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3" alt="Last commit">
-  <img src="https://img.shields.io/github/stars/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/CosmicThinker25/Testing-CPT-Symmetric-Siamese-Universes-through-FRB-QSO-Sky-Correlations-v1.3?style=social" alt="GitHub forks">
-</p>
-
 ---
 
 ### 📄 Summary
@@ -40,7 +33,7 @@ CosmicThinker & ChatGPT (2025).
 
 **BibTeX**
 ```bibtex
-@misc{cosmicthinker2025frbqso,
+
   author       = {CosmicThinker and ChatGPT},
   title        = {Testing CPT–Symmetric Siamese Universes through FRB–QSO Sky Correlations (v1.3)},
   year         = {2025},
